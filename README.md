@@ -13,7 +13,3 @@ my code doesnt work 😢
 
 
 <img src="https://wakatime.com/share/@0e817db0-6de0-4cef-9ce0-5ab596f46bce/039a8d7c-492e-4bce-b912-2085821fd2f7.png" />
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/rambiing/rambiing/blob/main/cirno.gif?raw=true');]{x0000}$}
-```
