@@ -1,8 +1,6 @@
 ### Hi there 👋
 my code doesnt work 😢
 
-<a href="https://discord.com/users/420893806049624074"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/420893806049624074?bg=23283d&borderRadius=8px"/></a>
-
 <img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api?username=Jpuf0&show_icons=true&count_private=true&include_all_commits=true&hide=contribs&hide_title=true&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="jpuf's Github Stats"><img align="center" style="padding:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpuf0&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff" alt="jpuf's Github Langs">
 
 #### Langs i break code in
